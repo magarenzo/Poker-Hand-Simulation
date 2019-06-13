@@ -11,7 +11,7 @@ dealer <- function(cards) {
 }
 
 # stores a dataframe of what is returned from a frequency table of one hand
-# stores the frequency column of the datafram as a vector for manipulation, sorted descending
+# stores the frequency column of the dataframe as a vector for manipulation, sorted descending
 # if the vector has:
 #                    4 followed by 1 = four of a kind
 #                    3 followed by 2 = full hand
