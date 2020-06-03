@@ -2,7 +2,9 @@
 
 Simulates poker hands and tracks simple pairings
 
-[*dealer_simulation.r*](https://github.com/magarenzo/poker-hand-simulation/blob/master/dealer_simulation.r) simulates <i>x</i> hands of poker and tracks simple pairings that occur in that number of hands.
+## About
+
+Simulate `x` hands of poker and tracks simple pairings that occur in `x` hands
 
 ## Output
 
@@ -14,4 +16,4 @@ Michael A. Agarenzo
 
 ---
 
-This was originally created as an assignment in MTH 225 (Statistics and Data Analytics).
+This was originally created as an assignment in MTH 225 (Statistics and Data Analytics)
