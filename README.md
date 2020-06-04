@@ -12,8 +12,6 @@ Simulate `x` hands of poker and tracks simple pairings that occur in `x` hands
 
 ## Owner
 
-Michael A. Agarenzo
+* Michael A. Agarenzo
 
----
-
-This was originally created as an assignment in MTH 225 (Statistics and Data Analytics)
+* This was originally created as an assignment in MTH 225 (Statistics and Data Analytics)
