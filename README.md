@@ -2,16 +2,53 @@
 
 Simulates poker hands and tracks simple pairings
 
-## About
+## Overview
 
 Simulate `x` hands of poker and tracks simple pairings that occur in `x` hands
 
-## Output
+### Output
 
--- 10 hands --<br>One pairs:  8<br>Two pairs:  0<br>Three of a kinds:  0<br>Fullhouses:  0<br>Four of a kinds:  0<br>-- 100 hands --<br>One pairs:  45<br>Two pairs:  6<br>Three of a kinds:  6<br>Fullhouses:  0<br>Four of a kinds:  0<br>-- 1000 hands --<br>One pairs:  413<br>Two pairs:  50<br>Three of a kinds:  26<br>Fullhouses:  0<br>Four of a kinds:  0<br>-- 5000 hands --<br>One pairs:  2164<br>Two pairs:  232<br>Three of a kinds:  106<br>Fullhouses:  8<br>Four of a kinds:  0<br>-- 10000 hands --<br>One pairs:  4284<br>Two pairs:  501<br>Three of a kinds:  199<br>Fullhouses:  9<br>Four of a kinds:  1<br>-- 20000 hands --<br>One pairs:  8417<br>Two pairs:  956<br>Three of a kinds:  395<br>Fullhouses:  33<br>Four of a kinds:  5
+```
+-- 10 hands --
+One pairs:  8
+Two pairs:  0
+Three of a kinds:  0
+Fullhouses:  0
+Four of a kinds:  0
+-- 100 hands --
+One pairs:  45
+Two pairs:  6
+Three of a kinds:  6
+Fullhouses:  0
+Four of a kinds:  0
+-- 1000 hands --
+One pairs:  413
+Two pairs:  50
+Three of a kinds:  26
+Fullhouses:  0
+Four of a kinds:  0
+-- 5000 hands --
+One pairs:  2164
+Two pairs:  232
+Three of a kinds:  106
+Fullhouses:  8
+Four of a kinds:  0
+-- 10000 hands --
+One pairs:  4284
+Two pairs:  501
+Three of a kinds:  199
+Fullhouses:  9
+Four of a kinds:  1
+-- 20000 hands --
+One pairs:  8417
+Two pairs:  956
+Three of a kinds:  395
+Fullhouses:  33
+Four of a kinds:  5
+```
 
 ## Owner
 
-Michael A. Agarenzo
+[Michael A. Agarenzo](https://magarenzo.com)
 
 This was originally created as an assignment in MTH 225 (Statistics and Data Analytics)
